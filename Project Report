@@ -1,0 +1,51 @@
+# Global Fuel Prices and Taxation Trends
+
+## 1. Introduction
+
+The Global Fuel Prices and Taxation Trends project uses Tableau to explore fuel prices and taxation patterns across different countries. Data visualization helps present complex information in a clear and understandable format.
+
+## 2. Objectives
+
+* Analyze fuel prices across countries.
+* Explore differences in fuel taxation.
+* Compare fuel price and tax trends.
+* Present insights through interactive visualizations.
+* Practice data analysis and dashboard creation using Tableau.
+
+## 3. Tools and Technologies
+
+* **Tableau Public:** Data visualization and dashboard development.
+* **Dataset:** Global fuel prices and taxation data in CSV format.
+* **GitHub:** Project documentation and portfolio management.
+
+## 4. Methodology
+
+1. Obtained the fuel prices and taxation dataset.
+2. Imported the dataset into Tableau.
+3. Reviewed the available fields and data.
+4. Created charts to compare fuel prices and taxation.
+5. Combined the charts into a dashboard.
+6. Uploaded the project files and documentation to GitHub.
+
+## 5. Dashboard and Visualizations
+
+The Tableau dashboard contains visualizations created to explore fuel prices and taxation trends. The charts help users compare the available data and identify patterns.
+
+**Dashboard screenshot:** Refer to the dashboard image uploaded in this repository.
+
+## 6. Key Findings
+
+The findings should be based on the actual dashboard and dataset. Review the visualizations to identify countries with higher or lower fuel prices, differences in taxation, and any patterns between fuel prices and taxes.
+
+## 7. Conclusion
+
+This project demonstrates how Tableau can be used to analyze and visualize global fuel price and taxation data. It provides practical experience in data preparation, visual analysis, dashboard creation, and project documentation.
+
+## 8. Skills Learned
+
+* Data visualization using Tableau
+* Basic data analysis
+* Dashboard design
+* Interpreting charts and trends
+* Project documentation using Markdown
+* GitHub repository management
